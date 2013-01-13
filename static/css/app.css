@@ -1,0 +1,12 @@
+input#nb-names {
+    width: 50px;
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
+
+.centered {
+    text-align: center;
+}

@@ -1,0 +1,536 @@
+Ahai
+Aigu
+Allyrion
+Ambrose
+Antaryon
+Arc-en-Ciel
+Arryn
+Baelish
+Ballot
+Baratheon
+Barbe-Blanche
+Barbe-rouille
+Barberouge
+Beaux-doigts
+Belmore
+Benedict
+Berger
+Bettley
+Beurpuits
+Blancherisette
+Blanetree
+Blount
+Bois-Donnel
+Boisleau
+Bolton
+Bonfrère
+Bonleu
+Bonne-Chance
+Bonru
+Borrell
+Botley
+Boule
+Boulin
+Boulleau
+Bracken
+Branche
+Brax
+Briseglace
+Broom
+Brousse
+Brune
+Buckler
+Buckwell
+Bulwer
+Cafferen
+Canardière
+Cardon
+Cargyll
+Caron
+Cassel
+Castelfoyer
+Castos
+Caswell
+Cellador
+Celtigar
+Cendregué
+Cerrick
+Cerwyn
+Cetheres
+Charlton
+Chaume
+Chelsted
+Chenu
+Chester
+Cheveux-d'or
+Chyttering
+Cirley
+Clegane
+Clifton
+Cockshaw
+Cole
+Connington
+Coq
+Corbois
+Corbray
+Cossepois
+Costayne
+Costes
+Cox
+Crabbe
+Crakehall
+Crane
+Crocheté
+Cuillêtre
+Cupps
+Cuy
+D'han
+Dalt
+Dan
+Darry
+Dayne
+Deem
+Delépi
+Dimittis
+Dombecq
+Dondarrion
+Dos-Rouge
+Dos-zébré
+Dothare
+Dunstable
+Durrandon
+Dustin
+Ebrose
+Egen
+Ellendor
+Emeros
+Erreck
+Errol
+Estremont
+Estren
+Eustace
+Faonblanc
+Farman
+Farring
+Fell
+Fengué
+Ferboys
+Feunoyr
+Fleurs
+Flint
+Florent
+Flowers
+Fléau-d'Ogres
+Fléaufort
+Foin
+Follard
+Forel
+Forgefer
+Forrest
+Fort
+Fossovoie
+Freux-buteur
+Frey
+Froideseaux
+Frétilletrique
+Galare
+Gargalen
+Garizon
+Garner
+Gaunt
+Gerardys
+Gerblance
+Glover
+Goüer
+Graceford
+Grafton
+Graindorge
+Grandison
+Grandpas
+Grell
+Greyfer
+Greyjoy
+Grimm
+Gros-Bide
+Gueule-en-deux
+Guyne
+Guède
+H'ghar
+Harclay
+Hardy
+Hardyng
+Harloi
+Harlton
+Harmune
+Harodon
+Harte
+Hastif
+Hautesterres
+Hawick
+Heddle
+Helliweg
+Henly
+Hightower
+Hill
+Hollard
+Holt
+Horpe
+Hotah
+Houëtt
+Humble
+Hunt
+Hèvre
+If
+Istarion
+Jardinier
+Jarret d’Acier
+Jarrettes
+Jast
+Jenny
+Jordayne
+Jorquen
+Joth
+Karstark
+Kayce
+Kenning
+Lestrange
+L'Ymagier
+Labriaux
+Lamûre
+Langue d'Argent
+Langward
+Lannister
+Lanster
+Le Charpentier
+Le Maisonpierre
+Le Potier
+Lefford
+Lemore
+Lideuil
+Limonbure
+Locke
+Lomys
+Lonbec
+Loncol
+Long
+Longue Lance
+Longue-hache
+Longuebranche
+Longzeaux
+Lonhameau
+Lorch
+Lornel
+Lothar
+Lothston
+Luceon
+Lychester
+Lydden
+Lynderly
+Lépicier
+Maar
+Maegyr
+Mahr
+Mains-froides
+Mains-vertes
+Maisonpierre
+Malanon
+Mallarawan
+Malleon
+Mallery
+Mallister
+Manderly
+Mandragore
+Mange-yeux
+Manteaugris
+Marpheux
+Marsh
+Martell
+Massey
+Matt
+Meg
+Merlyn
+Merryweather
+Mertyns
+Mervault
+Mi-Chenu
+Milopin
+Mo
+Mogat
+Mollen
+Moore
+Mopatis
+Moreland
+Mormont
+Morrigen
+Morru
+Mossegonde
+Mott
+Mouton
+Mullendore
+Myrès
+Naharis
+Nerbosc
+Nestoris
+Nez plat
+Nissa
+Noirmarées
+Noirmont
+Norcroix
+Norridge
+Norroit
+Noye
+Nègrebar
+Néfranc
+Oldflowers
+Omble
+Orkwood
+Ormollen
+Osgris
+Otherys
+Ouestrelin
+Paege
+Paenymion
+Paisselande
+Paupières-lourdes
+Payne
+Peake
+Pemgué
+Penny
+Penrose
+Petibois
+Pied-de-fer
+Pierremoûtier
+Pimm
+Pindepierre
+Piper
+Pièdre
+Piéferme
+Plumegrise
+Poole
+Portée
+Potaunoir
+Poucenoir
+Poulet
+Prestayn
+Prestre
+Prompt-arc
+Prompte-Hache
+Prunelles étoilées
+Prédeaux
+Pyke
+Pyle
+Qoherys
+Qorgyle
+Quaynish
+Quenenny
+Quetsch
+Quill
+Racin
+Rambton
+Rankenfell
+Rayder
+Redwyne
+Reed
+Reyne
+Rhysling
+Rhée
+Risley
+Rivers
+Robin
+Roche
+Rogers
+Rosby
+Rougefort
+Rouscaille
+Rouxtigre
+Rowan
+Royce
+Ryger
+Rykker
+Ryswell
+Saan
+Salfalaise
+Sand
+Santagar
+Sarschamp
+Sarwyck
+Sathmantès
+Scyeur
+Seastar
+Selmy
+Serry
+Shawney
+Shett
+Six-Orteils
+Slynt
+Snow
+Solverre
+Sombrelyn
+Sparr
+Staedmon
+Stark
+Staunton
+Stilbois
+Stone
+Storm
+Stout
+Strong
+Suggs
+Sunderland
+Swann
+Swyft
+Sylvegué
+Taillebois
+Tallett
+Tallhart
+Tanner
+Tarbeck
+Targaryen
+Tarly
+Taupe
+Tawney
+Templeton
+Tendyris
+Terys
+Thorne
+Tignac
+Timbal
+Tisserand
+Toland
+Toraq
+Torth
+Tourbier
+Tournebaie
+Trant
+Triplenoyé
+Trois-Dents
+Trois-Orteils
+Trois-doigts
+Tully
+Tumitis
+Tyrell
+Tyssier
+Uffering
+Uhoris
+Uller
+Underleaf
+Vaith
+Van
+Vanbois
+Vance
+Varnier
+Velaryon
+Vendeloyn
+Veneur
+Verchamps
+Vermont
+Verraz
+Vhassar
+Vikair
+Volentin
+Volmark
+Votar
+Votyris
+Vyprin
+Vyrwel
+Waters
+Wells
+Westford
+Whent
+Willum
+Woolfield
+Wull
+Wylde
+Wynch
+Wythers
+Xho
+Yarwyck
+au Bouclier-Miroir
+d'Alluve
+d'Etanverts
+d'Harrenhal
+de Cuy
+de Lonlac
+de Lordsport
+de Lunebourg
+de Lys
+de Mont-Taïaut
+de Morne
+de Myr
+de Nutten
+de Pennytree
+de Sombreval
+de Sortonne
+de Torth
+de Verpassé
+de Villevieille
+de Woodmere
+de la Colline
+de la Nouë
+des Essaims
+des Forêts
+des Sept-Rus
+du Crépuscule
+du Mont-Réal
+du Rouvre
+du Val
+l'Enclume
+l'Erre-nuit
+l'Exilé
+l'Heaume
+l'Ibbénienne
+l'Infect
+l'Insouriant
+l'Orphelin
+l'Élimé
+la Baleine
+la Barbe
+la Bigleuse
+la Bique
+la Boulange
+la Cigogne
+la Cruelle
+la Grenouille
+la Morosité
+la Poissarde
+la Rougissante
+la Teigne
+la Trique
+la Trompe
+la Truffe
+le Barbier
+le Berger
+le Boiteux
+le Bébègue
+le Chancre
+le Chat
+le Chauve
+le Defiant
+le Fol
+le Fratricide
+le Futé
+le Gnome
+le Grand
+le Gris
+le Harpiste
+le Jaune
+le Jeune
+le Louf
+le Manchot
+le Munificent
+le Noir
+le Prodigieux
+le Rimeur
+le Rogue
+le Rouge
+le Sans-le-Sol
+le Serf
+le Sillé
+le Tavelé
+le Velu
+le Verrat
+le Vieil
+le Vérolé
+les Os
+À-tâtons
+Œilblanc

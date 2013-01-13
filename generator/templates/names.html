@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form method="get" class="centered">
+    <p>Generate <input type="text" name="n" size="3" value="{{ nb_names }}" id="nb-names"/> names <input type="submit" class="button" value="Generate"/></p>
+</form>
+
+{% if names %}
+<ul class="block-grid five-up">
+    {% for name in names %}
+        <li>{{ name }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endblock %}
