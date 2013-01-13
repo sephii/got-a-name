@@ -10,3 +10,7 @@ h1 {
 .centered {
     text-align: center;
 }
+
+footer {
+    margin-top: 20px;
+}
